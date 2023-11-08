@@ -1,0 +1,75 @@
+.hi{
+    display: flex;
+    width: 100%;
+    height: 646px;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    width: 100%;
+    height: 656px;
+}
+.student-form-container {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 800px;
+    text-align: center;
+    margin-top: 700px
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #007bff;
+    margin-bottom: 15px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+    text-align: left;
+  }
+  
+  label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 3px;
+  }
+  
+  input[type="file"],
+  input[type="text"],
+  input[type="date"],
+  input[type="tel"],
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: border-color 0.3s;
+  }
+  
+  input[type="file"]:hover,
+  input[type="text"]:hover,
+  input[type="date"]:hover,
+  input[type="tel"]:hover,
+  input[type="email"]:hover,
+  input[type="password"]:hover {
+    border-color: #007bff;
+  }
+  
+  button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  

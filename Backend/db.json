@@ -1,0 +1,30 @@
+{
+  "Admin": [
+    {
+      "Photo": "C:\\fakepath\\01",
+      "First_Name": "Bharatgouda",
+      "Middle_Name": "I",
+      "Surname": "Malipatil",
+      "Birthday": "2023-10-24",
+      "Class": "1std",
+      "Phone": "165181684",
+      "email": "bharatmalipatil2690@gmail.com",
+      "Set_Password": "123456",
+      "Password_Confirmation": "123456",
+      "id": 1
+    },
+    {
+      "Photo": "",
+      "First_Name": "",
+      "Middle_Name": "",
+      "Surname": "",
+      "Birthday": "",
+      "Class": "",
+      "Phone": "",
+      "email": "",
+      "Set_Password": "",
+      "Password_Confirmation": "",
+      "id": 2
+    }
+  ]
+}
